@@ -10,7 +10,7 @@
 
 ### ✅ Core Functionality
 - **🧠 Topic-to-Quiz**: Enter any topic name (e.g., "World War II", "JavaScript Closures", "Photosynthesis") and generate a fresh quiz instantly.
-- **🖼️ Image-to-Quiz**: Upload an image (handwritten notes, textbook page, slides) and Quizara will scan and convert it into a quiz using OCR + AI.
+- **🖼️ Image-to-Quiz**: Upload an image (handwritten notes, textbook page, slides) and Quizara will scan and convert it into a quiz using AI.
 - **🛠️ Custom Quiz Creation**: Create and save your own MCQs manually.
 - **📈 Performance Tracking**: Get detailed feedback on every quiz: accuracy, time taken, and topic-wise progress.
 - **🗂️ Public Quiz Library**: Search and attempt quizzes created by others.
