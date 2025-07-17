@@ -76,9 +76,28 @@ Traditional quiz apps are:
 
 ---
 
+## 💤 Note on Speed (Cold Start Warning)
+Quizara’s backend is currently hosted on free-tier Render services. This means that if the server hasn’t been used in a while, it goes to sleep to conserve resources.
+
+⏱️ As a result, the first request after a long gap may take anywhere from 1 to 40 seconds to respond. Once the server wakes up, subsequent actions will be much faster.
+
+> We plan to upgrade to more reliable infrastructure soon — stay tuned!
+
 ## 📷 Screenshots (Coming Soon)
 
-Working on UI polishing — stay tuned!
+<p align="center">
+  <img src="https://i.ibb.co/ZznxMrMf/Whats-App-Image-2025-07-17-at-23-34-04.jpg" alt="Login" width="250"/>
+  <img src="https://i.ibb.co/qYJ6JTHw/Whats-App-Image-2025-07-17-at-23-34-05.jpg" alt="Generate" width="250"/>
+  <img src="https://i.ibb.co/yc9w3Hvz/Whats-App-Image-2025-07-17-at-23-34-05-1.jpg" alt="Discover" width="250"/>
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/HMQJBVL/Whats-App-Image-2025-07-17-at-23-35-08.jpg" alt="Quiz Taking Screen" width="250"/>
+  <img src="https://i.ibb.co/rfR9KndW/Whats-App-Image-2025-07-17-at-23-35-32.jpg" alt="Navigation Panel" width="250"/>
+  <img src="https://i.ibb.co/ZtVVYsj/Whats-App-Image-2025-07-17-at-23-37-33.jpg" alt="Answer Details" width="250"/>
+</p>
+<p align="center">
+  <img src="https://i.ibb.co/3XL85Cz/Whats-App-Image-2025-07-17-at-23-36-56.jpg" alt="Final Score" width="250"/>
+</p>
 
 ---
 
