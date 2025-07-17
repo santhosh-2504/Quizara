@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mocktest-app",
-    "slug": "mocktest-app",
+    "name": "Quizara",
+    "slug": "quizara",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,10 +20,17 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.santhosh_2504.quizara"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e9b0fd4-8901-4303-ac38-60cfe9f1d17a"
+      }
+    },
+    "owner": "santhosh_2504"
   }
 }
