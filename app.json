@@ -26,11 +26,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "owner": "santhosh-2504",
     "extra": {
       "eas": {
-        "projectId": "5e9b0fd4-8901-4303-ac38-60cfe9f1d17a"
+        "projectId": "8b16e21f-8289-4646-8990-857e32d62b7a"
       }
-    },
-    "owner": "santhosh_2504"
+    }
   }
 }
