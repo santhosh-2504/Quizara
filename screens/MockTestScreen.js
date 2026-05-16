@@ -723,6 +723,9 @@ const MockTestScreen = ({ navigation }) => {
 
         <View style={styles.inputGroup}>
           <Text style={styles.labelText}>Upload Reference Image (Optional)</Text>
+          <Text style={{ color: '#ef4444', fontSize: 12, marginBottom: 8, marginTop: -4 }}>
+            * Image-based quiz generation is temporarily unavailable due to API limitations
+          </Text>
           <View style={styles.imageUploadContainer}>
             {image ? (
               <View style={styles.selectedImageContainer}>
